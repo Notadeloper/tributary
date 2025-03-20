@@ -1,0 +1,9 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.checkstyle.version": "10.3.3",
+  "java.checkstyle.configuration": "${workspaceFolder}/config/checkstyle.xml",
+  "java.format.settings.url": ".vscode/java-formatter.xml",
+  "java.format.comments.enabled": false,
+  "java.import.gradle.version": "8.5",
+  "editor.formatOnSave": true
+}

@@ -1,0 +1,6 @@
+{
+    "id": "event4",
+    "payloadType": "String",
+    "key": "partition2",
+    "value": "This is 4 message"
+}
